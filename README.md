@@ -1,4 +1,6 @@
-# nodejq-issue
+# nodejq issue example
+
+This is the example for the issue https://github.com/sanack/node-jq/issues/681
 
 To install dependencies:
 
